@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Пицца</string>
+    <string name="qr_picture">qr picture</string>
+    <string name="menu">Меню</string>
+    <string name="profile">Профиль</string>
+    <string name="basket">Корзина</string>
+    <string name="title_menu">Меню</string>
+    <string name="title_profile">Профиль</string>
+    <string name="title_basket">Корзина</string>
+    <string name="pizza">Пицца</string>
+    <string name="pizza_description">Ветчина, шампионьоны, увеличенная порция моцареллы, томатный соус</string>
+    <string name="pizza_buy_price">от 340 р</string>
+    <string name="pizza_button">Пицца</string>
+    <string name="combo_button">Комбо</string>
+    <string name="dessert_button">Десерты</string>
+    <string name="drinks_button">Напитки</string>
+    <string name="dodsters_button">Додстеры</string>
+    <string name="others_button">Другое</string>
+    <string-array name="cities">
+        <item>Москва</item>
+        <item>Санкт-Петербугрг</item>
+        <item>Новосибирск</item>
+        <item>Екатеринбург</item>
+        <item>Казань</item>
+        <item>Нижний Новгород</item>
+        <item>Ростов-на-Дону</item>
+        <item>Самара</item>
+    </string-array>
+</resources>
